@@ -1,0 +1,3 @@
+require('./bundle')
+
+require('./scripts')
